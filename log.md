@@ -6,7 +6,8 @@ The log of my #100DaysOfCode challenge. Started on [July 07, Monday, 2020].
 
 ### R1D0 July 06, 2020
 **Today's Progress:**
-Plan to learn FreeCodeCamp
+Plan try my best to learn FreeCodeCamp 
+
 **Thoughts:** 
 Set the better system to code everyday
 
