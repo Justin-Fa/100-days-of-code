@@ -5,10 +5,10 @@ The log of my #100DaysOfCode challenge. Started on [July 07, Tuesday, 2020].
 
 ## **R1D2** July 08, 2020
 ### **Today's Progress:**
-1. Pratice git through open source software Git-it
-2. Learin Basic CSS in FreeCodeCamp
+1. Practice git through open-source software Git-it
+2. Learn Basic CSS in FreeCodeCamp
 ### **Thoughts:** 
-1. git have common use ways
+1. git has common use ways
 2. CSS can combine HTML to display the Web
 3. The CSS main:
    - color
