@@ -3,6 +3,14 @@
 # #100DaysOfCode Log - Round 1 - [Justin-Fa]
 The log of my #100DaysOfCode challenge. Started on [July 07, Tuesday, 2020].
 
+## **R1D3** July 10, 2020
+### **Today's Progress:**
+1. Learn Basic CSS in FreeCodeCamp
+2. Spaced Repetition 
+### **Thoughts:** 
+1. class id attribute inline rgb hex
+2. Considering we may forget the thing we learn, so learn how to use Anki to better code.
+
 ## **R1D2** July 08, 2020
 ### **Today's Progress:**
 1. Practice git through open-source software Git-it
